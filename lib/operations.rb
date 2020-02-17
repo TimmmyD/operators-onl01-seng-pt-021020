@@ -8,9 +8,6 @@ def unsafe?(speed)
   else 40 <= speed <= 60
     binding.pry
     speed >= 40 && speed <= 60
-    
-    
-    
     false 
   end
 end

@@ -4,6 +4,7 @@ def unsafe?(speed)
     speed > 60
     TRUE
   else 
+    binding.pry
 end
 
 

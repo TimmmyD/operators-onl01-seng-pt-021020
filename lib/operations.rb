@@ -3,7 +3,7 @@ def unsafe?(speed)
  # biniding.pry
   speed > 60
   TRUE
-  elsif
+  elsif speed < 40
 end
 
 

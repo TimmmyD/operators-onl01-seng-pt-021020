@@ -1,7 +1,7 @@
 require 'pry'
 def unsafe?(speed)
   biniding.pry
-  speed
+  speed > 60
 end
 
 

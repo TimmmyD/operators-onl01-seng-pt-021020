@@ -3,8 +3,8 @@ def unsafe?(speed)
  # binding.pry
    if speed > 60
     TRUE
-  elsif
-    speed < 40
+  elsif speed < 40 
+    
     true
   end
 end
